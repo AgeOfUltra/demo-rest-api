@@ -1,6 +1,6 @@
 package com.rest.api.services;
 
-import com.rest.api.Flight;
+import com.rest.api.util.Flight;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

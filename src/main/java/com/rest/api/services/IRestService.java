@@ -1,9 +1,8 @@
 package com.rest.api.services;
 
-import com.rest.api.Flight;
+import com.rest.api.util.Flight;
 
 import java.util.List;
-import java.util.Optional;
 
 public interface IRestService {
     void saveFlight(Flight flight);

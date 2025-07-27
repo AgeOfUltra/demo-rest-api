@@ -1,4 +1,4 @@
-package com.rest.api;
+package com.rest.api.util;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
